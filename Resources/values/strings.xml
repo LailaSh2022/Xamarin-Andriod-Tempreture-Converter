@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="action_settings">Settings</string>
+	<string name="app_lable">Temperature Converter</string>
+	<string name="button_lable">Convert</string>
+	<string name="Text_lable">Enter Tempreture</string>
+	<string name="Temp_prompt">Chose the Converter</string>
+	<string-array name="Temp_promp">
+		<item>F to C</item>
+		<item>C to F</item>
+		<item>F to K</item>
+		<item>K to F</item>
+		<item>C to K</item>
+		<item>K to C</item>
+	</string-array>
+</resources>
